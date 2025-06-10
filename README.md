@@ -1,5 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
-
+# Web Development Project 1 - Your Daily Boost of Intelligence
 Submitted by: Eduardo Goncalvez
 
 This web app: This is a web board that displays videos from "Your daily boost of intelligence," a curated playlist made by Skai, a software engineer and Google Hackerthon winner. The board features videos that every CS should watch.
